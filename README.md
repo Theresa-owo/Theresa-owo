@@ -10,7 +10,7 @@
   <img src="assets/cute-skill-dart.svg" alt="Dart" height="28">
   <img src="assets/cute-skill-flutter.svg" alt="Flutter" height="28">
   <img src="assets/cute-skill-git.svg" alt="Git" height="28">
-  <a href="https://github.com/Theresa-owo?tab=followers"><img src="https://img.shields.io/github/followers/Theresa-owo?style=flat&label=Friends&labelColor=b395b4&color=e9d6e9" alt="GitHub followers — 查看公开关注者" height="20"></a>
+  <a href="https://github.com/Theresa-owo?tab=followers"><img src="https://img.shields.io/github/followers/Theresa-owo?style=flat&label=Friends&labelColor=b395b4&color=e9d6e9&cacheSeconds=3600" alt="GitHub followers — 查看公开关注者" height="20"></a>
 </p>
 
 ## 🍓 GitHub 小小信息板
@@ -50,7 +50,7 @@
   </picture>
 </a>
 
-[源码 ↗](https://github.com/Theresa-owo/TFframework) · [![TFframework Stars](https://img.shields.io/github/stars/Theresa-owo/TFframework?style=flat&color=e1cce9&labelColor=b395b4&label=Stars)](https://github.com/Theresa-owo/TFframework)
+[源码 ↗](https://github.com/Theresa-owo/TFframework) · [![TFframework Stars](https://img.shields.io/github/stars/Theresa-owo/TFframework?style=flat&color=e1cce9&labelColor=b395b4&label=Stars&cacheSeconds=3600)](https://github.com/Theresa-owo/TFframework)
 
 <a href="https://github.com/ZipField/zipliner-client">
   <picture>
@@ -61,7 +61,7 @@
   </picture>
 </a>
 
-[源码 ↗](https://github.com/ZipField/zipliner-client) · [下载 ↗](https://github.com/ZipField/zipliner-client/releases/latest) · [![Zipliner Stars](https://img.shields.io/github/stars/ZipField/zipliner-client?style=flat&color=cde5da&labelColor=8fac9c&label=Stars)](https://github.com/ZipField/zipliner-client)
+[源码 ↗](https://github.com/ZipField/zipliner-client) · [下载 ↗](https://github.com/ZipField/zipliner-client/releases/latest) · [![Zipliner Stars](https://img.shields.io/github/stars/ZipField/zipliner-client?style=flat&color=cde5da&labelColor=8fac9c&label=Stars&cacheSeconds=3600)](https://github.com/ZipField/zipliner-client)
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cute-project-neo-mobile-dark.svg">
