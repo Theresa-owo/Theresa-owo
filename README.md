@@ -10,7 +10,7 @@
   <img src="assets/cute-skill-dart.svg" alt="Dart" height="28">
   <img src="assets/cute-skill-flutter.svg" alt="Flutter" height="28">
   <img src="assets/cute-skill-git.svg" alt="Git" height="28">
-  <a href="https://github.com/Theresa-owo?tab=followers"><picture><source srcset="https://img.shields.io/github/followers/Theresa-owo?style=flat&label=Friends&labelColor=b395b4&color=e9d6e9&cacheSeconds=3600"><img src="https://img.shields.io/github/followers/Theresa-owo?style=flat&label=Friends&labelColor=b395b4&color=e9d6e9&cacheSeconds=3600" alt="GitHub followers — 查看公开关注者" height="20"></picture></a>
+  <a href="https://github.com/Theresa-owo?tab=followers"><img src="assets/cute-followers.svg" alt="GitHub followers：3，2026-10-01 公开数据快照；点击查看当前公开关注者。" height="20"></a>
 </p>
 
 ## 🍓 GitHub 小小信息板
@@ -26,7 +26,7 @@
   </picture>
 </p>
 
-<sub>统计卡与关注数由公开服务自动更新，可能有缓存；语言卡是 2026-09-30 的展示项目快照，不代表技能熟练度。[查看公开主页 ↗](https://github.com/Theresa-owo)</sub>
+<sub>统计卡由公开服务自动更新，可能有缓存；关注数与项目 Star 徽章是 2026-10-01 的公开数据快照，点击可查看当前数据。语言卡是 2026-09-30 的展示项目快照，不代表技能熟练度。[查看公开主页 ↗](https://github.com/Theresa-owo)</sub>
 
 <details>
 <summary>🍪 图片暂时没加载？这里还有公开数据快照</summary>
@@ -50,7 +50,7 @@
   </picture>
 </a>
 
-[源码 ↗](https://github.com/Theresa-owo/TFframework) · <a href="https://github.com/Theresa-owo/TFframework"><picture><source srcset="https://img.shields.io/github/stars/Theresa-owo/TFframework?style=flat&color=e1cce9&labelColor=b395b4&label=Stars&cacheSeconds=3600"><img src="https://img.shields.io/github/stars/Theresa-owo/TFframework?style=flat&color=e1cce9&labelColor=b395b4&label=Stars&cacheSeconds=3600" alt="TFframework Stars"></picture></a>
+[源码 ↗](https://github.com/Theresa-owo/TFframework) · [![TFframework Stars：0，2026-10-01 快照](assets/cute-stars-tf.svg)](https://github.com/Theresa-owo/TFframework)
 
 <a href="https://github.com/ZipField/zipliner-client">
   <picture>
@@ -61,7 +61,7 @@
   </picture>
 </a>
 
-[源码 ↗](https://github.com/ZipField/zipliner-client) · [下载 ↗](https://github.com/ZipField/zipliner-client/releases/latest) · <a href="https://github.com/ZipField/zipliner-client"><picture><source srcset="https://img.shields.io/github/stars/ZipField/zipliner-client?style=flat&color=cde5da&labelColor=8fac9c&label=Stars&cacheSeconds=3600"><img src="https://img.shields.io/github/stars/ZipField/zipliner-client?style=flat&color=cde5da&labelColor=8fac9c&label=Stars&cacheSeconds=3600" alt="Zipliner Stars"></picture></a>
+[源码 ↗](https://github.com/ZipField/zipliner-client) · [下载 ↗](https://github.com/ZipField/zipliner-client/releases/latest) · [![Zipliner Stars：0，2026-10-01 快照](assets/cute-stars-zip.svg)](https://github.com/ZipField/zipliner-client)
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/cute-project-neo-mobile-dark.svg">
